@@ -1,0 +1,2 @@
+[functions.reaction-gif]
+verify_jwt = false
